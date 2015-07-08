@@ -3,7 +3,7 @@
 # Compilers
 
 ## Optimization
-- [Linear Scan Register Allocation](http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf) -- Register allocations 
+- [Linear Scan Register Allocation](http://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf)
 
 ## Error Messages
 - [Mind Your Language: On Novices' Interactions with Error Messages](http://cs.brown.edu/~sk/Publications/Papers/Published/mfk-mind-lang-novice-inter-error-msg/paper.pdf)
